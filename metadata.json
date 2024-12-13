@@ -4,9 +4,6 @@
     "description": "Tao token test choi",
     "image": "https://media.licdn.com/dms/image/v2/C5635AQHTInKzmFvu8A/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1602036104868?e=1734688800&v=beta&t=Z0TP4OSXKOIFTZDSOXJM8sF8aEQjJvjICRWRm-tqTtE",
     "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+    { "trait_type": "Purpose", "value": "Training" }
+  ]
   }
